@@ -91,10 +91,7 @@ namespace mio
 				return normals_.size();
 			}
 
-			inline void append_vertex(const mio::Point3 &vertex)
-			{
-				vertices_.push_back(vertex);
-			}
+			void append_vertex(const mio::Point3 &vertex);
 
 			inline void append_normal(const mio::Vector3 &normal)
 			{

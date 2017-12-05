@@ -2,61 +2,61 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <Filter Include="Data Structures">
-      <UniqueIdentifier>{c3be61c8-332a-4df5-9448-b568964627d9}</UniqueIdentifier>
+      <UniqueIdentifier>{49148b0f-6d88-4b4f-9944-661b194652de}</UniqueIdentifier>
     </Filter>
     <Filter Include="Mathematics">
-      <UniqueIdentifier>{1e4d58ff-75ff-481f-8986-db3699034bfe}</UniqueIdentifier>
+      <UniqueIdentifier>{8e7900be-5931-4864-9f17-115f2ee630f2}</UniqueIdentifier>
     </Filter>
     <Filter Include="Scene Graph">
-      <UniqueIdentifier>{5a5e9f8c-97c4-4eff-be7a-298ed5e6d997}</UniqueIdentifier>
+      <UniqueIdentifier>{2bb94471-4d08-4270-9c7c-85654b73e44c}</UniqueIdentifier>
     </Filter>
     <Filter Include="Scene Graph\Visitors">
-      <UniqueIdentifier>{b7e28ef2-409e-4a08-86e3-d19dc98bf2b9}</UniqueIdentifier>
+      <UniqueIdentifier>{423f7297-945f-4809-92d5-465b8187bff7}</UniqueIdentifier>
     </Filter>
     <Filter Include="Base">
-      <UniqueIdentifier>{63ac9080-6c16-4d84-a79f-2c42b5104b6d}</UniqueIdentifier>
+      <UniqueIdentifier>{6cc2724d-a404-4554-a5ef-dd2e127810a7}</UniqueIdentifier>
     </Filter>
     <Filter Include="Material">
-      <UniqueIdentifier>{3f508341-ef5e-45ed-9cdd-19eccc05f688}</UniqueIdentifier>
+      <UniqueIdentifier>{7e989547-c881-4562-8bf8-065005b13a53}</UniqueIdentifier>
     </Filter>
     <Filter Include="Material\Visitors">
-      <UniqueIdentifier>{e848aa99-0277-473c-8139-fdbb54ffce88}</UniqueIdentifier>
+      <UniqueIdentifier>{9fc0e7cc-bf58-4d6a-ac70-9cff86de6581}</UniqueIdentifier>
     </Filter>
     <Filter Include="Geometry">
-      <UniqueIdentifier>{665b99fe-f059-4517-b743-76fd22b62361}</UniqueIdentifier>
+      <UniqueIdentifier>{6f73ef8f-a5b6-49cb-8250-1f54c82996f3}</UniqueIdentifier>
     </Filter>
     <Filter Include="Geometry\Visitors">
-      <UniqueIdentifier>{55af30c5-2757-4e30-bbde-2e557c351586}</UniqueIdentifier>
+      <UniqueIdentifier>{7e2ce917-fd38-4bf0-bf9a-c5095014b6a1}</UniqueIdentifier>
     </Filter>
     <Filter Include="IL">
-      <UniqueIdentifier>{94bac18c-09cb-4e75-a5c2-234e275a10ea}</UniqueIdentifier>
+      <UniqueIdentifier>{315b179f-582c-4389-b6e0-5ece615e683b}</UniqueIdentifier>
     </Filter>
     <Filter Include="GL">
-      <UniqueIdentifier>{f5711c8f-9579-4ea0-8427-925fd41b8cde}</UniqueIdentifier>
+      <UniqueIdentifier>{e3b2186e-8b9b-4fd1-a420-864f465b5e3d}</UniqueIdentifier>
     </Filter>
     <Filter Include="Textures">
-      <UniqueIdentifier>{03fb559e-7296-4a5a-8e78-8f5ea7003dae}</UniqueIdentifier>
+      <UniqueIdentifier>{0a2992be-70af-42f3-b457-d2a3ecb7f79f}</UniqueIdentifier>
     </Filter>
     <Filter Include="Textures\Visitors">
-      <UniqueIdentifier>{f41ebf4f-465a-4b00-baaf-4d1232494df8}</UniqueIdentifier>
+      <UniqueIdentifier>{6481b90b-b2a8-485f-b20a-86b13028cc9a}</UniqueIdentifier>
     </Filter>
     <Filter Include="Utility">
-      <UniqueIdentifier>{372b4290-772a-48a9-b4a2-9dd84aa6104e}</UniqueIdentifier>
+      <UniqueIdentifier>{7ae380b0-001b-407e-b5bb-d14f2cc26db1}</UniqueIdentifier>
     </Filter>
     <Filter Include="Visitor">
-      <UniqueIdentifier>{2bdd73fb-93b2-4c46-b633-74d92de29272}</UniqueIdentifier>
+      <UniqueIdentifier>{3c1c6999-af37-4a02-a330-9a36d8d1f991}</UniqueIdentifier>
     </Filter>
     <Filter Include="Rigging">
-      <UniqueIdentifier>{8ed1f5ba-73b7-4cde-93e0-7cdfe10ac33e}</UniqueIdentifier>
+      <UniqueIdentifier>{da33510e-1291-44ba-bf43-664cd1e23818}</UniqueIdentifier>
     </Filter>
     <Filter Include="IK">
-      <UniqueIdentifier>{0a8ebf7a-6613-430b-860d-f7337ea0251e}</UniqueIdentifier>
+      <UniqueIdentifier>{a9230485-9b6f-4009-b2a0-59bf204d0cba}</UniqueIdentifier>
     </Filter>
     <Filter Include="Skinning">
-      <UniqueIdentifier>{2e71a2d4-58a9-45f2-a8ef-304ef8229168}</UniqueIdentifier>
+      <UniqueIdentifier>{65c1ee83-5a95-419f-a1a2-001c901d62c7}</UniqueIdentifier>
     </Filter>
     <Filter Include="Curve">
-      <UniqueIdentifier>{d58969a4-9ab9-4ca6-82b4-afc47e8873c3}</UniqueIdentifier>
+      <UniqueIdentifier>{1499b969-1468-42cb-b61a-f3acb736be6b}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>

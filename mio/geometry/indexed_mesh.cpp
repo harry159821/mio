@@ -1,5 +1,6 @@
 #include <mio/geometry/indexed_mesh.h>
 #include <mio/geometry/mesh_visitor.h>
+#include <stdio.h>
 
 namespace mio
 {
@@ -27,6 +28,12 @@ namespace mio
 		void IndexedMesh::accept(mio::geometry::MeshVisitor *visitor)
 		{
 			visitor->visit_IndexedMesh(this);
+		}
+
+		void IndexedMesh::append_vertex(const mio::Point3 &vertex)
+		{
+			printf("append_vertex\n");
+			vertices_.push_back(vertex);
 		}
 
 		/**
